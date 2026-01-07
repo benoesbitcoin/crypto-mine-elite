@@ -1,0 +1,8 @@
+{
+  "name": "Crypto Mine Pro Elite",
+  "description": "Elite cryptocurrency trading, mining, and casino terminal with AI synthesis.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}

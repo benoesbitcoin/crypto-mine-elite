@@ -1,0 +1,14 @@
+
+{
+  "appId": "com.cryptomine.pro.elite",
+  "appName": "Crypto Mine Pro Elite",
+  "webDir": ".",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": true,
+    "captureInput": true
+  }
+}
